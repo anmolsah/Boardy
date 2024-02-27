@@ -18,7 +18,7 @@ A simple and collaborative online whiteboard for drawing, sketching, and brainst
 
 1.  Clone this repository:
     ```bash
-    git clone [invalid URL removed]
+    git clone [git@github.com:anmolsah/Boardy.git]
     ```
 2.  Open `index.html` in your web browser.
 
