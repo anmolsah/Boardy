@@ -3,7 +3,7 @@ const ctx = canvas.getContext('2d');
 
 // Set initial canvas size
 canvas.width = window.innerWidth;
-canvas.height = window.innerHeight - 60; // Adjust height based on needs
+canvas.height = window.innerHeight - 60; 
 
 let isDrawing = false;
 let color = 'black';
