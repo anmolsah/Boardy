@@ -17,13 +17,13 @@ A simple and collaborative online whiteboard for drawing, sketching, and brainst
 
 1.  Clone this repository:
     ```bash
-    git clone [git@github.com:anmolsah/Boardy.git]
+    git clone git@github.com:anmolsah/Boardy.git
     ```
 2.  Open `index.html` in your web browser.
 
 ### Or, access the live demo
 
-[[Link to the live version of your whiteboard if it's hosted somewhere](https://boaardy.netlify.app/)]
+(https://boaardy.netlify.app/)
 
 ## Usage
 
