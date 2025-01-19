@@ -23,7 +23,7 @@ A simple and collaborative online whiteboard for drawing, sketching, and brainst
 
 ### Or, access the live demo
 
-(https://boaardy.netlify.app/)
+https://boaardy.netlify.app/
 
 ## Usage
 
