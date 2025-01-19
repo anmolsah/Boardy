@@ -44,6 +44,4 @@ A simple and collaborative online whiteboard for drawing, sketching, and brainst
 
 Contributions are welcome! Feel free to open a pull request or submit an issue with any bug reports, feature suggestions, or code improvements.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
